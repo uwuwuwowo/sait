@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(to left,purple,gold);
+}
+
+h1 {
+    text-align: left;
+    font-size: 60px;
+    color:black;
+    border-radius: 10px;
+    text-transform: unset;
+    
+}
+
+h3{
+    font-size: 25px;
+    color:black;
+}
+
+a {
+    color:black;
+    font-size: 20px;
+}
+
+p{
+    color:black;
+}
