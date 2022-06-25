@@ -1,8 +1,8 @@
 # sait
 #index.html
 <html>
+    <link rel=“stylesheet” href=“style.css”/>
     <body>
-        <link rel=“stylesheet” href=“style.css”/>
         <header>
              <a href="#main">Основное</a> <a href="#reviwes">Отзывы по сайту</a>
              </header>
