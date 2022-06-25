@@ -2,6 +2,7 @@
 #index.html
 <html>
     <body>
+        <link rel=“stylesheet” href=“style.css”/>
         <header>
              <a href="#main">Основное</a> <a href="#reviwes">Отзывы по сайту</a>
              </header>
